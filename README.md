@@ -20,7 +20,7 @@
 | api/event | PUT | อัพเดท event ในฐานข้อมูล |
 
 ## ER diagram
-![image]()
+![image](./ER_diagram.png)
 
 ## Setup dev env
 - [GitHub](https://github.com/pataradee/Ching-cheng-hanji.git)
