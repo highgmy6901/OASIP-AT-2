@@ -1,9 +1,9 @@
 # 🐈 Ching-cheng-hanji 🐁
 
 ## Software Architecture
-![image]("C:\Users\Suwaphit Chotsawad\Downloads\image1.png")
+![image](C:\Users\Suwaphit Chotsawad\Downloads\image1.png)
 ## Infrastructure Architecture
-![image]("C:\Users\Suwaphit Chotsawad\Downloads\image.png")
+![image](C:\Users\Suwaphit Chotsawad\Downloads\image.png)
 ## Design communications between client and server.
 
 - Protocol => HTTP,TCP
@@ -26,15 +26,15 @@
 - [GitHub](https://github.com/pataradee/Ching-cheng-hanji.git)
 - [Task Board](https://app.clickup.com/36721829/v/li/174788706)
 - Tools => 
-    -- Front-end : VS Code
-    -- Back-end : IntelliJ
-    -- Dev ops : Docker
-    -- Database : MySQL workbench
+    1. Front-end : VS Code
+    2. Back-end : IntelliJ
+    3. Dev ops : Docker
+    4. Database : MySQL workbench
 - Communications => Discord, MS Team
 - Localhost
-    -- Front-end : 3000
-    -- Back-end : 5000
-    -- Database : 3306
+    1. Front-end : 3000
+    2. Back-end : 5000
+    3. Database : 3306
 
 ## Setup dev server
 
