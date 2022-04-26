@@ -40,7 +40,8 @@
 
 
 ## Wireframes
-By [Figma](https://www.figma.com/proto/FFu7WiaBwzUe0KrRhRFeNy/Integrated?page-id=0%3A1&node-id=2%3A2&viewport=241%2C48%2C0.27&scaling=min-zoom&starting-point-node-id=2%3A2)
+By Figma
+- [week 1](https://www.figma.com/proto/FFu7WiaBwzUe0KrRhRFeNy/Integrated?page-id=0%3A1&node-id=2%3A2&viewport=241%2C48%2C0.27&scaling=min-zoom&starting-point-node-id=2%3A2)
 
 # 🎫 About Us
 งานนี้เป็นส่วนของวิชา INT221 INFORMATION TECHNOLOGY INTEGRATED PROJECT <br/> ภาคเรียนที่ 2 ปีการศึกษา 2564 คณะเทคโนโลยีสารสนเทศ มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี
